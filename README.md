@@ -3,7 +3,7 @@
 ## [Version]
 Python version - 3.4.4 
 
-# [Files]
+## [Files]
 Files included:
 	- dfc.py
 	- dfc.conf
