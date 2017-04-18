@@ -1,6 +1,6 @@
 # DistributedFileSystem
 
-# [Version]
+## [Version]
 Python version - 3.4.4 
 
 # [Files]
@@ -9,7 +9,7 @@ Files included:
 	- dfc.conf
 	- dfs.py
 	- dfs.conf
-# [Usage]
+## [Usage]
 How to run the DFC script
 1. To run the dfc.py scripts, run below command:
 	dfc.py [path/to/dfc.conf]
@@ -18,7 +18,7 @@ How to run the DFS scripts
 1. To run the dfs.py script, run below command
 	dfs.py [DFS_directory] [port_number]
 
-# [About]
+## [About]
 dfc.py & dfs.py
 1. On running dfc.py script, user will be provided with a list of option
 	GET filename
